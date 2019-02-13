@@ -1,5 +1,5 @@
 # BAEA
-Source code for behavior analysis of evolutionary algorithms via SFA and CNN and dynamic fitness landscape analysis for population-based metaheuristic algorithms. The related works are as follows:
+This repository contains the codes and test problems for the project "Behavior Representation and Analysis of Evolutionary Algorithms". For the details of the works, please refer to the published papers:
 
 [1]	Chengshan Pang, Mang Wang, Weiming Liu and Bin Li, Learning Features for Discriminative Behavior Analysis of Evolutionary Algorithms via Slow Feature Analysis, ACM GECCO'16, July 20-24, 2016, Denver, USA, p1437-1444.
 代码见附件
